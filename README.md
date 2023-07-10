@@ -1,11 +1,11 @@
-Hello world!! I am Rafael Fabiano😁
+Hello world!! I am Lucas Heitz😁
 💻studying computer engineering
 
 
 <div align="start">
-  <a href="https://github.com/rafapili%22%3E</a>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=rafapili&show_icons=true&theme=monokai&include_all_commits=true&count_private=true%22/%3E</img>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafapili&layout=compact&langs_count=7&theme=monokai%22/%3E</img>
+  <a href="https://github.com/Lucas-Heitz</a>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Heitz&show_icons=true&theme=monokai&include_all_commits=true&count_private=true%22/%3E</img>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Heitz&layout=compact&langs_count=7&theme=monokai%22/%3E</img>
 </div>
 
 
@@ -23,14 +23,7 @@ Hello world!! I am Rafael Fabiano😁
 
 <div>
   <a href="https://www.linkedin.com/in/rafael-fabiano-b61012218//" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:adolude8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
-
- 
+  <a href = "lucasheitz700@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://www.instagram.com/lukkxtz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 </div>
-
-
-
-
