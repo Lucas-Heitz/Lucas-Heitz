@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Lucas Heitz</h1>
 <h3 align="center">A backend developer from Brazil</h3>
 
-- 🌱 I’m currently learning **.NET, C#, HTML, CSS, Javascript and Python**
+- 🌱 I’m currently learning **Java, HTML, CSS and Javascript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Lucas-Heitz](https://github.com/Lucas-Heitz)
 
 - 💬 Ask me about **Anything you want**
 
-- 📫 How to reach me **lucasheitz700@gmail.com**
+- 📫 How to reach me **lucasheitz.contact@gmail.com**
 
 - ⚡ Fun fact **I think i'm cool, just a think**
 
