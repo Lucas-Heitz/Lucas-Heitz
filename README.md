@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas Heitz</h1>
 <h3 align="center">A backend developer from Brazil</h3>
 
-- 🌱 I’m currently learning **Java, C#, HTML, CSS and Javascript**
+- 🌱 I’m currently learning **C#, HTML, CSS and Javascript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Lucas-Heitz](https://github.com/Lucas-Heitz)
 
