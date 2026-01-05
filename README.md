@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **lucasheitz.contact@gmail.com**
 
-- ⚡ Fun fact **I think i'm cool, just a think**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
