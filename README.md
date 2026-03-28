@@ -15,7 +15,7 @@
 <a href="https://instagram.com/lukkxtz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lukkxtz" height="30" width="40" /></a>
 </p>
 <p align="left">
-<a href="www.linkedin.com/in/lucas-heitz-71350b2a7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Lucas Heitz profile" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lucas-heitz-71350b2a7/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Lucas Heitz profile" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
