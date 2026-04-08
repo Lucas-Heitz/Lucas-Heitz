@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Lucas-Heitz](https://github.com/Lucas-Heitz)
 
-- 💬 Ask me about **Anything you want**
+- 💬 Actually working on projects with **HTML, CSS, Javascript and C#**
 
 - 📫 How to reach me **lucasheitz.contact@gmail.com**
 
