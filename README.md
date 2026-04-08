@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C#, HTML, CSS and Javascript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Lucas-Heitz](https://github.com/Lucas-Heitz)
+- 👨‍💻 All of my projects are available at my LinkedIn[https://www.linkedin.com/in/lucas-heitz-71350b2a7/](https://www.linkedin.com/in/lucas-heitz-71350b2a7/)
 
 - 💬 Actually working on projects with **HTML, CSS, Javascript and C#**
 
