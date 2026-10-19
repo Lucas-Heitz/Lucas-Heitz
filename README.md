@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Lucas Heitz</h1>
 <h3 align="center">A backend developer from Brazil</h3>
 
-- 🌱 I’m currently learning **C#, HTML, CSS and Javascript**
+- 🌱 Atualmente estou aprendendo **C#, SQL, HTML, CSS and Javascript**
 
-- 👨‍💻 All of my projects are available at my LinkedIn [https://www.linkedin.com/in/lucas-heitz-71350b2a7/](https://www.linkedin.com/in/lucas-heitz-71350b2a7/)
+- 👨‍💻 Todos os meus projetos estão disponíveis no meu LinkedIn [https://www.linkedin.com/in/lucas-heitz-71350b2a7/](https://www.linkedin.com/in/lucas-heitz-71350b2a7/)
 
-- 💬 Actually working on projects with **HTML, CSS, Javascript and C#**
-
-- 📫 How to reach me **lucasheitz.contact@gmail.com**
+- 📫 Entre em contato comigo! **lucasheitz.contact@gmail.com**
 
 
 <h3 align="left">Connect with me</h3>
