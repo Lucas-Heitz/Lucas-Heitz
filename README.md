@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, sou Lucas Heitz</h1>
-<h3 align="center">A backend developer from Brazil</h3>
+<h3 align="center">Um Desenvolvedor backend</h3>
 
 - 🌱 Atualmente estou aprendendo **C#, SQL, HTML, CSS and Javascript**
 
